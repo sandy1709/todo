@@ -1,0 +1,78 @@
+{
+    "price": "Rs 6999",
+    "ram": "4 GB",
+    "Memory": "32 GB",
+    "Processor": "MediaTek Helio G25 Octa-core",
+    "Battery": "5000 mAh",
+    "Rear_camera": "16 MP",
+    "Back_camera": "12 MP",
+    "Warrenty": "1 Year",
+    "Os": "MIUI 12",
+    "display": "16.58 centimeters (6.53-inch) HD+ display with 720x1600 pixels and 20:9 aspect ratio",
+    "url": "https://cdn1.smartprix.com/rx-i4rypr2zc-w420-h420/xiaomi-redmi-9a-spor.webp"
+}
+
+{
+  "price": "Rs 19999",
+  "ram": "6 GB",
+  "Memory": "128 GB",
+  "Processor": "Snapdragon 695 5G",
+  "Battery": "5000 mAh",
+  "Rear_camera": "128 MP 8 mp 2 Mp",
+  "Back_camera": "20 MP",
+  "images": [
+    "https://cdn1.smartprix.com/rx-iwR5tvlyR-w1200-h1200/xiaomi-redmi-note-11.webp ",
+    "https://cdn1.smartprix.com/rx-iATlwXeDC-w1200-h1200/xiaomi-redmi-note-11.webp"
+  ],
+  "Warrenty": "1 Year",
+  "Os": "MIUI 13",
+  "display": "116.94cm(6.67) Super AMOLED display with 120Hz Refresh Rate",
+  "url": "https://cdn1.smartprix.com/rx-iATlwXeDC-w420-h420/xiaomi-redmi-note-11.webp"
+}
+
+
+{
+  "price": "Rs 24999",
+  "ram": "8 GB",
+  "Memory": "128 GB",
+  "Processor": "Mediatek Dimensity 900",
+  "Battery": "4500 mAh",
+  "Rear_camera": "64 MP",
+  "Back_camera": "16 MP",
+  "Warrenty": "1 Year",
+  "Os": "OxygenOS",
+  "display": "6.43 inch, 90Hz FHD+ AMOLED Display",
+  "url": "https://cdn1.smartprix.com/rx-iJfsFcLXf-w420-h420/oneplus-nord-ce-2-li.webp"
+}
+
+
+{
+  "price": "Rs 71999",
+  "ram": "12 GB",
+  "Memory": "256 GB",
+  "Processor": "Qualcomm Snapdragon 8 Gen 1",
+  "Battery": "5000 mAh",
+  "Rear_camera": "48 MP 50 mp 8 Mp",
+  "Back_camera": "32 MP",
+  "Warrenty": "1 Year",
+  "Os": "OxygenOs",
+  "display": "6.7 Inches; 120 Hz QHD+ Fluid AMOLED with LTPO",
+  "url": "https://cdn1.smartprix.com/rx-iG1bQDedP-w420-h420/oneplus-10-pro-5g.webp"
+}
+
+
+{
+  "price": "Rs 19999",
+  "ram": "6 GB",
+  "Memory": "128 GB",
+  "Processor": "Snapdragon 695 5G",
+  "Battery": "5000 mAh",
+  "Rear_camera": "128 MP 8 mp 2 Mp",
+  "Back_camera": "20 MP",
+  "Warrenty": "1 Year",
+  "Os": "MIUI 13",
+  "display": "116.94cm(6.67) Super AMOLED display with 120Hz Refresh Rate",
+  "url": "https://cdn1.smartprix.com/rx-iG1bQDedP-w420-h420/oneplus-10-pro-5g.webp"
+}
+
+
